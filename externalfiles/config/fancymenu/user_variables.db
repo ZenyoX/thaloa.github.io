@@ -1,0 +1,6 @@
+type = cached_variables
+
+variables {
+  net.minecraft.class_429:345154 = 110
+}
+

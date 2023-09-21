@@ -1,0 +1,336 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/fancymenu/customguis/main/bakcground.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = top-left
+  x = 554
+  action = movebutton
+  y = 102
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  orientation = top-centered
+  x = 53
+  action = movebutton
+  y = 108
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = e048baa7-7bc9-4ed9-8a7c-611a39a056411694937759178
+  y = 348
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = ba6781cc-24db-4294-8d07-dbf085cd69441694937759178
+  y = 190
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 8c2abf43-f742-4774-bfe6-49f591956b7d1694937759178
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 765b8f57-2860-4c7b-b64a-e09da92cdc861694937759178
+  y = 0
+  height = 30
+}
+
+customization {
+  path = config/fancymenu/customguis/main/backbuttons.png
+  orientation = mid-centered
+  x = -46
+  width = 92
+  action = addtexture
+  actionid = 82d9edac-96d7-4f12-9d42-610feb3e3b481694939083175
+  y = -49
+  height = 100
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Thaloa 1.0b Season 1
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 2
+  width = 165
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = f5a07d40-262f-406d-95a5-e3d3527555ae1694937832782
+  y = 348
+  alignment = left
+  height = 10
+}
+
+customization {
+  path = config/fancymenu/customguis/main/logo.png
+  orientation = mid-centered
+  x = -20
+  width = 40
+  action = addtexture
+  actionid = e891f916-cd90-4a1f-b1bc-1f9beaff93671694938428901
+  y = -130
+  height = 40
+}
+
+customization {
+  path = config/fancymenu/customguis/main/skinplace.png
+  orientation = mid-centered
+  x = -105
+  width = 60
+  action = addtexture
+  actionid = 1693b422-f37c-42b8-9eb9-262f1e72745d1694939185729
+  y = -44
+  height = 87
+}
+
+customization {
+  path = config/fancymenu/customguis/main/backaccess.png
+  orientation = top-left
+  x = 367
+  width = 20
+  action = addtexture
+  actionid = a8ffe2a7-d9cb-487d-ac32-90f835cc76241694939236092
+  y = 159
+  height = 20
+}
+
+customization {
+  path = config/fancymenu/customguis/main/backaccess.png
+  orientation = top-left
+  x = 367
+  width = 20
+  action = addtexture
+  actionid = cce3db75-c867-469b-a335-1de5c7eebc881694939288928
+  y = 181
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = false
+  buttonaction = joinserver;localhost%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/customguis/main/play button/playh.png
+  label = 
+  loopbackgroundanimations = true
+  x = -35
+  width = 70
+  action = addbutton
+  actionid = 56dbe924-de1d-4adc-af02-e5f62157818b1694939530969
+  y = -37
+  backgroundnormal = config/fancymenu/customguis/main/play button/play.png
+  height = 14
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = quitgame%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/customguis/main/leave button/leaveh.png
+  label = 
+  loopbackgroundanimations = true
+  x = -35
+  width = 70
+  action = addbutton
+  actionid = ed60a768-dc08-45c9-89f0-3736400e279d1694940366331
+  y = 25
+  backgroundnormal = config/fancymenu/customguis/main/leave button/leave.png
+  height = 14
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:mc_titlescreen_options_button%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/customguis/main/options button/optionsh.png
+  label = 
+  loopbackgroundanimations = true
+  x = -35
+  width = 70
+  action = addbutton
+  actionid = 649c821f-bd5b-44bb-af04-d1d2a34d4d951694940372137
+  y = 4
+  backgroundnormal = config/fancymenu/customguis/main/options button/options.png
+  height = 14
+}
+
+customization {
+  slim = false
+  auto_skin = false
+  scale = 30
+  showname = false
+  follow_mouse = true
+  capeurl = http://textures.minecraft.net/texture/2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933
+  action = custom_layout_element:fancymenu_customization_player_entity
+  actionid = 0ee2248f-ee58-4bc2-8342-eb2414013ecf1694940759378
+  playername = ZenyoX
+  bodyrotationx = 0.0
+  bodyrotationy = 0.0
+  auto_cape = false
+  is_baby = false
+  height = 54
+  orientation = mid-centered
+  copy_client_player = true
+  headrotationy = 0.0
+  headrotationx = 0.0
+  skinurl = http://textures.minecraft.net/texture/39adb0089b2f532941f34c53e89e553b8b863c32ded7185606ea3e1babafd29
+  crouching = false
+  x = -84
+  width = 18
+  parrot_left_shoulder = false
+  y = -28
+  parrot = true
+}
+
+customization {
+  path = config/fancymenu/customguis/main/access button/backaccess.png
+  orientation = top-left
+  x = 367
+  width = 20
+  action = addtexture
+  actionid = 933c63eb-91e6-45d9-8756-68ee91c470611694941578552
+  y = 181
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:mc_titlescreen_language_button%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/customguis/main/lang button/langh.png
+  label = 
+  loopbackgroundanimations = true
+  x = 47
+  width = 20
+  action = addbutton
+  actionid = 3ca58ec3-ae82-4f18-9c6b-351f94f2b3f61694941741465
+  y = -21
+  backgroundnormal = config/fancymenu/customguis/main/lang button/lang.png
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = false
+  buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:modmenu_titlescreen_mods_button%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/customguis/main/mods button/modsh.png
+  label = 
+  loopbackgroundanimations = false
+  x = -35
+  width = 70
+  action = addbutton
+  actionid = 1d3d80ea-3445-45dc-89dd-3aa78e7c91f11694960222680
+  y = -17
+  backgroundnormal = config/fancymenu/customguis/main/mods button/mods.png
+  height = 14
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = false
+  buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:mc_titlescreen_accessibility_button%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/customguis/main/access button/accessh.png
+  label = 
+  loopbackgroundanimations = false
+  x = 47
+  width = 20
+  action = addbutton
+  actionid = ec5774ae-bc83-4d7d-9ccf-f9df05057de31694960572551
+  y = 1
+  backgroundnormal = config/fancymenu/customguis/main/access button/access.png
+  height = 20
+}
+
