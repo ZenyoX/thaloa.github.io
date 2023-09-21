@@ -283,16 +283,16 @@
       "size": 1069123
     },
     {
-      "name": "Elytra Glitch Fix-1.0.jar",
-      "downloadURL": "https://zenyox.github.io/mods/Elytra Glitch Fix-1.0.jar",
-      "sha1": "4448ec895e170a11f6bc25b67deda1ac07085760",
-      "size": 36219
-    },
-    {
       "name": "elytraboosters-1.5.1.jar",
       "downloadURL": "https://zenyox.github.io/mods/elytraboosters-1.5.1.jar",
       "sha1": "91ffd04779d4a7037ee39687e924e194e631bd6b",
       "size": 1166931
+    },
+    {
+      "name": "elytraglitchfix-1.0.jar",
+      "downloadURL": "https://zenyox.github.io/mods/elytraglitchfix-1.0.jar",
+      "sha1": "4448ec895e170a11f6bc25b67deda1ac07085760",
+      "size": 36219
     },
     {
       "name": "elytraslot-fabric-6.3.0+1.20.1.jar",
