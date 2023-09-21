@@ -1,6 +1,6 @@
 <?php
-const EXTFILES_URL = 'https://zenyox.github.io/mods';
-const EXTFILES_FOLDER = __DIR__ . '/mods';
+const MODS_URL = 'https://zenyox.github.io/mods';
+const MODS_FOLDER = __DIR__ . '/mods';
 $json = [
     'mods' => []
 ];
