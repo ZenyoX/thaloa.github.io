@@ -327,14 +327,14 @@
     {
       "path": "config\\fancymenu\\customization\\main.txt",
       "downloadURL": "https://zenyox.github.io/externalfiles/config\\fancymenu\\customization\\main.txt",
-      "sha1": "2990696f84bd3a2cd1dca1ca7a10c68ea7ae1028",
+      "sha1": "d1d45d5ea860c21037cd321d89da7a3832c12055",
       "size": 8456
     },
     {
       "path": "config\\fancymenu\\customization\\options.txt",
       "downloadURL": "https://zenyox.github.io/externalfiles/config\\fancymenu\\customization\\options.txt",
-      "sha1": "8e48d2f1da86889edf84d8b9cbda3ae358c6e4cc",
-      "size": 8222
+      "sha1": "55b9c8beb41ddc911d3918ca5848fe3e8e201441",
+      "size": 7905
     },
     {
       "path": "config\\fancymenu\\custom_locals\\bakcground.png",
