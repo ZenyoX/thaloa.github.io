@@ -63,15 +63,6 @@ customization {
 }
 
 customization {
-  identifier = %id=345184%
-  loopbackgroundanimations = false
-  restartbackgroundanimations = false
-  action = setbuttontexture
-  backgroundhovered = config/fancymenu/customguis/options/physics button/physicsh.png
-  backgroundnormal = config/fancymenu/customguis/options/physics button/physics.png
-}
-
-customization {
   identifier = %id=345154%
   orientation = mid-centered
   x = -126
@@ -91,8 +82,8 @@ customization {
   loopbackgroundanimations = false
   restartbackgroundanimations = false
   action = setbuttontexture
-  backgroundhovered = config/fancymenu/customguis/options/fov slider/fovh.png
-  backgroundnormal = config/fancymenu/customguis/options/fov slider/fov.png
+  backgroundhovered = config/fancymenu/customguis/options/fov-slider/fovh.png
+  backgroundnormal = config/fancymenu/customguis/options/fov-slider/fov.png
 }
 
 customization {
@@ -213,7 +204,7 @@ customization {
   width = 255
   action = addtexture
   actionid = 4d844943-5143-4445-9ee2-65aa5bb97b521694949371816
-  y = -92
+  y = -91
   height = 185
 }
 
@@ -221,7 +212,7 @@ customization {
   orientation = mid-centered
   restartbackgroundanimations = false
   buttonaction = mimicbutton;net.minecraft.class_429:345184%btnaction_splitter_fm%
-  backgroundhovered = config/fancymenu/customguis/options/physics button/physicsh.png
+  backgroundhovered = config/fancymenu/customguis/options/physics-button/physicsh.png
   label = 
   loopbackgroundanimations = false
   x = -121
@@ -229,7 +220,7 @@ customization {
   action = addbutton
   actionid = 4f503377-00b7-4ffe-b693-c89c3431e8cc1694942943213
   y = -32
-  backgroundnormal = config/fancymenu/customguis/options/physics button/physics.png
+  backgroundnormal = config/fancymenu/customguis/options/physics-button/physics.png
   height = 14
 }
 
@@ -237,7 +228,7 @@ customization {
   orientation = mid-centered
   restartbackgroundanimations = false
   buttonaction = mimicbutton;net.minecraft.class_429:345208%btnaction_splitter_fm%
-  backgroundhovered = config/fancymenu/customguis/options/skin button/skinh.png
+  backgroundhovered = config/fancymenu/customguis/options/skin-button/skinh.png
   label = 
   loopbackgroundanimations = false
   x = -121
@@ -245,7 +236,7 @@ customization {
   action = addbutton
   actionid = 67392a5d-7b34-4bf3-9736-d6c504ec602d1694943186666
   y = -14
-  backgroundnormal = config/fancymenu/customguis/options/skin button/skin.png
+  backgroundnormal = config/fancymenu/customguis/options/skin-button/skin.png
   height = 14
 }
 
@@ -253,7 +244,7 @@ customization {
   orientation = mid-centered
   restartbackgroundanimations = false
   buttonaction = mimicbutton;net.minecraft.class_429:505208%btnaction_splitter_fm%
-  backgroundhovered = config/fancymenu/customguis/options/music button/musich.png
+  backgroundhovered = config/fancymenu/customguis/options/music-button/musich.png
   label = 
   loopbackgroundanimations = false
   x = 7
@@ -261,7 +252,7 @@ customization {
   action = addbutton
   actionid = a25400c3-669a-4e2a-93e7-f92fb26f6dc31694943386487
   y = -14
-  backgroundnormal = config/fancymenu/customguis/options/music button/music.png
+  backgroundnormal = config/fancymenu/customguis/options/music-button/music.png
   height = 14
 }
 
@@ -269,7 +260,7 @@ customization {
   orientation = mid-centered
   restartbackgroundanimations = false
   buttonaction = mimicbutton;net.minecraft.class_429:345232%btnaction_splitter_fm%
-  backgroundhovered = config/fancymenu/customguis/options/video button/videoh.png
+  backgroundhovered = config/fancymenu/customguis/options/video-button/videoh.png
   label = 
   loopbackgroundanimations = false
   x = -121
@@ -277,7 +268,7 @@ customization {
   action = addbutton
   actionid = e6667e0c-118a-48df-aba7-f18d0b1ac74c1694944634820
   y = 4
-  backgroundnormal = config/fancymenu/customguis/options/video button/video.png
+  backgroundnormal = config/fancymenu/customguis/options/video-button/video.png
   height = 14
 }
 
@@ -285,7 +276,7 @@ customization {
   orientation = mid-centered
   restartbackgroundanimations = false
   buttonaction = mimicbutton;net.minecraft.class_429:505232%btnaction_splitter_fm%
-  backgroundhovered = config/fancymenu/customguis/options/controls button/controlsh.png
+  backgroundhovered = config/fancymenu/customguis/options/controls-button/controlsh.png
   label = 
   loopbackgroundanimations = false
   x = 7
@@ -293,7 +284,7 @@ customization {
   action = addbutton
   actionid = dfdd558e-3a6e-48f7-8c2f-8509bfc486db1694944964984
   y = 4
-  backgroundnormal = config/fancymenu/customguis/options/controls button/controls.png
+  backgroundnormal = config/fancymenu/customguis/options/controls-button/controls.png
   height = 14
 }
 
@@ -301,7 +292,7 @@ customization {
   orientation = mid-centered
   restartbackgroundanimations = false
   buttonaction = mimicbutton;net.minecraft.class_429:505256%btnaction_splitter_fm%
-  backgroundhovered = config/fancymenu/customguis/options/chat button/chath.png
+  backgroundhovered = config/fancymenu/customguis/options/chat-button/chath.png
   label = 
   loopbackgroundanimations = false
   x = 7
@@ -309,7 +300,7 @@ customization {
   action = addbutton
   actionid = 109161d9-a0df-4ea9-87e8-bd6596875e0f1694945122852
   y = 22
-  backgroundnormal = config/fancymenu/customguis/options/chat button/chat.png
+  backgroundnormal = config/fancymenu/customguis/options/chat-button/chat.png
   height = 14
 }
 
@@ -317,7 +308,7 @@ customization {
   orientation = mid-centered
   restartbackgroundanimations = false
   buttonaction = mimicbutton;net.minecraft.class_429:505280%btnaction_splitter_fm%
-  backgroundhovered = config/fancymenu/customguis/options/accessibility button/accessibilityh.png
+  backgroundhovered = config/fancymenu/customguis/options/accessibility-button/accessibilityh.png
   label = 
   loopbackgroundanimations = false
   x = 7
@@ -325,7 +316,7 @@ customization {
   action = addbutton
   actionid = 069d8192-e7c6-4847-9ac4-0f7c9d966c9c1694945298482
   y = 40
-  backgroundnormal = config/fancymenu/customguis/options/accessibility button/accessibility.png
+  backgroundnormal = config/fancymenu/customguis/options/accessibility-button/accessibility.png
   height = 14
 }
 
@@ -333,7 +324,7 @@ customization {
   orientation = mid-centered
   restartbackgroundanimations = false
   buttonaction = mimicbutton;net.minecraft.class_429:345280%btnaction_splitter_fm%
-  backgroundhovered = config/fancymenu/customguis/options/resource button/resourceh.png
+  backgroundhovered = config/fancymenu/customguis/options/resource-button/resourceh.png
   label = 
   loopbackgroundanimations = false
   x = -121
@@ -341,7 +332,7 @@ customization {
   action = addbutton
   actionid = 1378dbf0-e98e-415a-9ab8-6ed44186078a1694945428961
   y = 22
-  backgroundnormal = config/fancymenu/customguis/options/resource button/resource.png
+  backgroundnormal = config/fancymenu/customguis/options/resource-button/resource.png
   height = 14
 }
 
@@ -349,7 +340,7 @@ customization {
   orientation = mid-centered
   restartbackgroundanimations = false
   buttonaction = mimicbutton;net.minecraft.class_429:400334%btnaction_splitter_fm%
-  backgroundhovered = config/fancymenu/customguis/options/done button/doneh.png
+  backgroundhovered = config/fancymenu/customguis/options/done-button/doneh.png
   label = 
   loopbackgroundanimations = false
   x = -30
@@ -357,7 +348,7 @@ customization {
   action = addbutton
   actionid = f8db5e88-1f44-414c-a897-f8ab04b2e6321694945560639
   y = 58
-  backgroundnormal = config/fancymenu/customguis/options/done button/done.png
+  backgroundnormal = config/fancymenu/customguis/options/done-button/done.png
   height = 14
 }
 

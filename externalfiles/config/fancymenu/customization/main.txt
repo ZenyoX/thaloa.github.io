@@ -203,7 +203,7 @@ customization {
   orientation = mid-centered
   restartbackgroundanimations = false
   buttonaction = joinserver;localhost%btnaction_splitter_fm%
-  backgroundhovered = config/fancymenu/customguis/main/play button/playh.png
+  backgroundhovered = config/fancymenu/customguis/main/play-button/playh.png
   label = 
   loopbackgroundanimations = true
   x = -35
@@ -211,7 +211,7 @@ customization {
   action = addbutton
   actionid = 56dbe924-de1d-4adc-af02-e5f62157818b1694939530969
   y = -37
-  backgroundnormal = config/fancymenu/customguis/main/play button/play.png
+  backgroundnormal = config/fancymenu/customguis/main/play-button/play.png
   height = 14
 }
 
@@ -219,7 +219,7 @@ customization {
   orientation = mid-centered
   restartbackgroundanimations = true
   buttonaction = quitgame%btnaction_splitter_fm%
-  backgroundhovered = config/fancymenu/customguis/main/leave button/leaveh.png
+  backgroundhovered = config/fancymenu/customguis/main/leave-button/leaveh.png
   label = 
   loopbackgroundanimations = true
   x = -35
@@ -227,7 +227,7 @@ customization {
   action = addbutton
   actionid = ed60a768-dc08-45c9-89f0-3736400e279d1694940366331
   y = 25
-  backgroundnormal = config/fancymenu/customguis/main/leave button/leave.png
+  backgroundnormal = config/fancymenu/customguis/main/leave-button/leave.png
   height = 14
 }
 
@@ -235,7 +235,7 @@ customization {
   orientation = mid-centered
   restartbackgroundanimations = true
   buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:mc_titlescreen_options_button%btnaction_splitter_fm%
-  backgroundhovered = config/fancymenu/customguis/main/options button/optionsh.png
+  backgroundhovered = config/fancymenu/customguis/main/options-button/optionsh.png
   label = 
   loopbackgroundanimations = true
   x = -35
@@ -243,7 +243,7 @@ customization {
   action = addbutton
   actionid = 649c821f-bd5b-44bb-af04-d1d2a34d4d951694940372137
   y = 4
-  backgroundnormal = config/fancymenu/customguis/main/options button/options.png
+  backgroundnormal = config/fancymenu/customguis/main/options-button/options.png
   height = 14
 }
 
@@ -290,7 +290,7 @@ customization {
   orientation = mid-centered
   restartbackgroundanimations = true
   buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:mc_titlescreen_language_button%btnaction_splitter_fm%
-  backgroundhovered = config/fancymenu/customguis/main/lang button/langh.png
+  backgroundhovered = config/fancymenu/customguis/main/lang-button/langh.png
   label = 
   loopbackgroundanimations = true
   x = 47
@@ -298,7 +298,7 @@ customization {
   action = addbutton
   actionid = 3ca58ec3-ae82-4f18-9c6b-351f94f2b3f61694941741465
   y = -21
-  backgroundnormal = config/fancymenu/customguis/main/lang button/lang.png
+  backgroundnormal = config/fancymenu/customguis/main/lang-button/lang.png
   height = 20
 }
 
@@ -306,7 +306,7 @@ customization {
   orientation = mid-centered
   restartbackgroundanimations = false
   buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:modmenu_titlescreen_mods_button%btnaction_splitter_fm%
-  backgroundhovered = config/fancymenu/customguis/main/mods button/modsh.png
+  backgroundhovered = config/fancymenu/customguis/main/mods-button/modsh.png
   label = 
   loopbackgroundanimations = false
   x = -35
@@ -314,7 +314,7 @@ customization {
   action = addbutton
   actionid = 1d3d80ea-3445-45dc-89dd-3aa78e7c91f11694960222680
   y = -17
-  backgroundnormal = config/fancymenu/customguis/main/mods button/mods.png
+  backgroundnormal = config/fancymenu/customguis/main/mods-button/mods.png
   height = 14
 }
 
@@ -322,7 +322,7 @@ customization {
   orientation = mid-centered
   restartbackgroundanimations = false
   buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:mc_titlescreen_accessibility_button%btnaction_splitter_fm%
-  backgroundhovered = config/fancymenu/customguis/main/access button/accessh.png
+  backgroundhovered = config/fancymenu/customguis/main/access-button/accessh.png
   label = 
   loopbackgroundanimations = false
   x = 47
@@ -330,7 +330,7 @@ customization {
   action = addbutton
   actionid = ec5774ae-bc83-4d7d-9ccf-f9df05057de31694960572551
   y = 1
-  backgroundnormal = config/fancymenu/customguis/main/access button/access.png
+  backgroundnormal = config/fancymenu/customguis/main/access-button/access.png
   height = 20
 }
 
