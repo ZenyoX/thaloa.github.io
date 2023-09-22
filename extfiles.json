@@ -1,0 +1,424 @@
+{
+  "extfiles": [
+    {
+      "path": "config/customsplashscreen/background.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/customsplashscreen/background.png",
+      "sha1": "c83a5a6252688ff8823c6f4422351fadba0e8ba1",
+      "size": 1923775
+    },
+    {
+      "path": "config/customsplashscreen/progressbar.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/customsplashscreen/progressbar.png",
+      "sha1": "156ec8b9279c0aa18fe7516e11f470957fb542e5",
+      "size": 3599
+    },
+    {
+      "path": "config/customsplashscreen/progressbar_background.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/customsplashscreen/progressbar_background.png",
+      "sha1": "79d4b74de9c0dfafcfba9332a7938c28805fcfa0",
+      "size": 1733
+    },
+    {
+      "path": "config/fancymenu/config.txt",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/config.txt",
+      "sha1": "fd492dbbec9f1d988e79619f3175320e9487a95b",
+      "size": 1645
+    },
+    {
+      "path": "config/fancymenu/customguis/advancements.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/advancements.png",
+      "sha1": "f9fa8d7535a5f1c515cefe2f97bb6e0494ac7f1a",
+      "size": 23455
+    },
+    {
+      "path": "config/fancymenu/customguis/advancementshover.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/advancementshover.png",
+      "sha1": "9267df505f58b8865cf5d9cbe5729802731529c9",
+      "size": 20961
+    },
+    {
+      "path": "config/fancymenu/customguis/back.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/back.png",
+      "sha1": "443e146ce38f5772ff98a05f2d02c6f4e85b8316",
+      "size": 17985
+    },
+    {
+      "path": "config/fancymenu/customguis/backhover.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/backhover.png",
+      "sha1": "1b4c5a6c8174d0bf4e09a79d97ed813c857049e1",
+      "size": 16621
+    },
+    {
+      "path": "config/fancymenu/customguis/buttonsback.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/buttonsback.png",
+      "sha1": "864a39a1cc36f2fa930f5fa6db4a48107719d56b",
+      "size": 2464913
+    },
+    {
+      "path": "config/fancymenu/customguis/disconnect.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/disconnect.png",
+      "sha1": "b7b5f0d58840287ea3d06edf9f5a6c5ee90d835e",
+      "size": 24647
+    },
+    {
+      "path": "config/fancymenu/customguis/disconnecthover.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/disconnecthover.png",
+      "sha1": "9461e6a03fba31835e7bed37add6e4991bc674f9",
+      "size": 22548
+    },
+    {
+      "path": "config/fancymenu/customguis/main/access-button/access.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/main/access-button/access.png",
+      "sha1": "bf7f9cbedbd99773c09c1ae013dceb33bb582be6",
+      "size": 5645
+    },
+    {
+      "path": "config/fancymenu/customguis/main/access-button/accessh.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/main/access-button/accessh.png",
+      "sha1": "8950f5b628219a40b8a0634c2b399ac1dd2cbe3c",
+      "size": 8817
+    },
+    {
+      "path": "config/fancymenu/customguis/main/backbuttons.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/main/backbuttons.png",
+      "sha1": "40fc1ecebcb01c851b8fbb985eec9da1f6b04a2b",
+      "size": 7828
+    },
+    {
+      "path": "config/fancymenu/customguis/main/bakcground.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/main/bakcground.png",
+      "sha1": "b98a00a99a12c67ad9a78aa607dd2cb0ffb23e34",
+      "size": 2183396
+    },
+    {
+      "path": "config/fancymenu/customguis/main/lang-button/lang.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/main/lang-button/lang.png",
+      "sha1": "7a8ea78edbbba4c43794bf4ab0bb71f4fa20a5ab",
+      "size": 6559
+    },
+    {
+      "path": "config/fancymenu/customguis/main/lang-button/langh.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/main/lang-button/langh.png",
+      "sha1": "60ef459217e93667035290b165101f9328f53636",
+      "size": 10775
+    },
+    {
+      "path": "config/fancymenu/customguis/main/leave-button/leave.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/main/leave-button/leave.png",
+      "sha1": "db40cc49e71c8884bd42f71ae9560eb427db2c2e",
+      "size": 14566
+    },
+    {
+      "path": "config/fancymenu/customguis/main/leave-button/leaveh.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/main/leave-button/leaveh.png",
+      "sha1": "fe3258099557e91d0ad344e5fb96d1f6e944242a",
+      "size": 13480
+    },
+    {
+      "path": "config/fancymenu/customguis/main/logo.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/main/logo.png",
+      "sha1": "2b5eff86f4fdb1d8a154530513b682149ee3895a",
+      "size": 40881
+    },
+    {
+      "path": "config/fancymenu/customguis/main/mods-button/mods.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/main/mods-button/mods.png",
+      "sha1": "961009c410ade77f661a8de470dc60b224b9f8d8",
+      "size": 14119
+    },
+    {
+      "path": "config/fancymenu/customguis/main/mods-button/modsh.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/main/mods-button/modsh.png",
+      "sha1": "c23879e48ee286febcc853db14dd4a47fd1a0533",
+      "size": 13064
+    },
+    {
+      "path": "config/fancymenu/customguis/main/options-button/options.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/main/options-button/options.png",
+      "sha1": "f8e8f238ce4fd11e03ca9750c0a67d636b542e1a",
+      "size": 14004
+    },
+    {
+      "path": "config/fancymenu/customguis/main/options-button/optionsh.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/main/options-button/optionsh.png",
+      "sha1": "8a74dfb84d9ad1ea33748f2b35ff1a644ef784a8",
+      "size": 12927
+    },
+    {
+      "path": "config/fancymenu/customguis/main/play-button/play.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/main/play-button/play.png",
+      "sha1": "d8d457ed9490a8b748bc0fbfaa30f1fca36b0492",
+      "size": 14591
+    },
+    {
+      "path": "config/fancymenu/customguis/main/play-button/playh.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/main/play-button/playh.png",
+      "sha1": "82de337fdbfd493fab3d1e14054b25e3a4c3f393",
+      "size": 13658
+    },
+    {
+      "path": "config/fancymenu/customguis/main/skinplace.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/main/skinplace.png",
+      "sha1": "266e5f585e9b9ebf927851497201cf92afbcf27c",
+      "size": 1275
+    },
+    {
+      "path": "config/fancymenu/customguis/mods.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/mods.png",
+      "sha1": "a5559ffa587075cac86193ab6f78e6debc66ecae",
+      "size": 17297
+    },
+    {
+      "path": "config/fancymenu/customguis/modshover.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/modshover.png",
+      "sha1": "ca16781a26b307cbaf4034f6b92eed30ce63893c",
+      "size": 15976
+    },
+    {
+      "path": "config/fancymenu/customguis/options/accessibility-button/accessibility.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/accessibility-button/accessibility.png",
+      "sha1": "ec6bfb5e0b0a524fcbc53035b714e71b5c82584b",
+      "size": 20188
+    },
+    {
+      "path": "config/fancymenu/customguis/options/accessibility-button/accessibilityh.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/accessibility-button/accessibilityh.png",
+      "sha1": "f6ae8f6b38a564e85f29f9ecb59a5ab691c5ac4f",
+      "size": 18857
+    },
+    {
+      "path": "config/fancymenu/customguis/options/background.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/background.png",
+      "sha1": "2cc412896285b914462496ca72a4378e9f2671d7",
+      "size": 2089174
+    },
+    {
+      "path": "config/fancymenu/customguis/options/chat-button/chat.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/chat-button/chat.png",
+      "sha1": "124113a37749a1947b65e934542576bf16865fe3",
+      "size": 19984
+    },
+    {
+      "path": "config/fancymenu/customguis/options/chat-button/chath.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/chat-button/chath.png",
+      "sha1": "adb0cf46179d193f759037a972dd5880eb4e34eb",
+      "size": 18758
+    },
+    {
+      "path": "config/fancymenu/customguis/options/controls-button/controls.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/controls-button/controls.png",
+      "sha1": "3f67d1ab74593d524419273cab13f5ac4da658b3",
+      "size": 19396
+    },
+    {
+      "path": "config/fancymenu/customguis/options/controls-button/controlsh.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/controls-button/controlsh.png",
+      "sha1": "43156ab8b2b6b1e0633108d7d033869742db43b1",
+      "size": 18095
+    },
+    {
+      "path": "config/fancymenu/customguis/options/done-button/done.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/done-button/done.png",
+      "sha1": "55b24f8a418551d6b224064f598b2d042fe7f223",
+      "size": 14047
+    },
+    {
+      "path": "config/fancymenu/customguis/options/done-button/doneh.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/done-button/doneh.png",
+      "sha1": "ec2ff2fd2e8f3f1e7bc45a11b9bc6a5be10a4ca7",
+      "size": 13035
+    },
+    {
+      "path": "config/fancymenu/customguis/options/fov-slider/fov.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/fov-slider/fov.png",
+      "sha1": "cbd761d7f4f14c88ec05ff563ec9196c6cb4e3f1",
+      "size": 14172
+    },
+    {
+      "path": "config/fancymenu/customguis/options/fov-slider/fovh.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/fov-slider/fovh.png",
+      "sha1": "b1f20b805ca1dd115ad6a95e8093aa31a6b18fad",
+      "size": 13520
+    },
+    {
+      "path": "config/fancymenu/customguis/options/music-button/music.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/music-button/music.png",
+      "sha1": "8fbe0366a7dc988f6f585931d1a5f25e1e5c1670",
+      "size": 20082
+    },
+    {
+      "path": "config/fancymenu/customguis/options/music-button/musich.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/music-button/musich.png",
+      "sha1": "04dc24172d95cef039ffd4ed851d07c40eefc4ba",
+      "size": 18781
+    },
+    {
+      "path": "config/fancymenu/customguis/options/physics-button/physics.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/physics-button/physics.png",
+      "sha1": "e599049371228438d1b199573d826776eca8801b",
+      "size": 28191
+    },
+    {
+      "path": "config/fancymenu/customguis/options/physics-button/physicsh.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/physics-button/physicsh.png",
+      "sha1": "4959d27147ba32a5a3ed6faba80b6c58a0741efe",
+      "size": 27217
+    },
+    {
+      "path": "config/fancymenu/customguis/options/resource-button/resource.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/resource-button/resource.png",
+      "sha1": "7f4f2d7ad68c2463b3836e1b88b8fe91a489a1b0",
+      "size": 19323
+    },
+    {
+      "path": "config/fancymenu/customguis/options/resource-button/resourceh.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/resource-button/resourceh.png",
+      "sha1": "3d702d0e9c55b69fa97d2896c5f25fd860d3ca3f",
+      "size": 18121
+    },
+    {
+      "path": "config/fancymenu/customguis/options/skin-button/skin.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/skin-button/skin.png",
+      "sha1": "2986b4592302b4373e98222f1f666641d4b99370",
+      "size": 15632
+    },
+    {
+      "path": "config/fancymenu/customguis/options/skin-button/skinh.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/skin-button/skinh.png",
+      "sha1": "de4c9e57371e6c94c8fa027d3fb2f4163a0994f2",
+      "size": 14505
+    },
+    {
+      "path": "config/fancymenu/customguis/options/titleback.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/titleback.png",
+      "sha1": "5039e28e9a69a8e2c3ce364f4ed5eb42f9f94046",
+      "size": 30477
+    },
+    {
+      "path": "config/fancymenu/customguis/options/video-button/video.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/video-button/video.png",
+      "sha1": "6d8393b7ea4a073ce30e6959a01d6aaa5e21f928",
+      "size": 19710
+    },
+    {
+      "path": "config/fancymenu/customguis/options/video-button/videoh.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options/video-button/videoh.png",
+      "sha1": "67ce192be2aa2f9a7530bf20d36e7ec49131951d",
+      "size": 18527
+    },
+    {
+      "path": "config/fancymenu/customguis/options.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/options.png",
+      "sha1": "65fdba3f1d9856263e3a137dbce283fabb3c7a59",
+      "size": 15798
+    },
+    {
+      "path": "config/fancymenu/customguis/optionshover.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/optionshover.png",
+      "sha1": "91ca98bfc4913182253ecdcd15a370f6023ae3d5",
+      "size": 14382
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customizablemenus.txt",
+      "sha1": "92ea3a1d6b83737e610b8bc220b8618835dad302",
+      "size": 307
+    },
+    {
+      "path": "config/fancymenu/customization/main.txt",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customization/main.txt",
+      "sha1": "d1d45d5ea860c21037cd321d89da7a3832c12055",
+      "size": 8456
+    },
+    {
+      "path": "config/fancymenu/customization/options.txt",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customization/options.txt",
+      "sha1": "55b9c8beb41ddc911d3918ca5848fe3e8e201441",
+      "size": 7905
+    },
+    {
+      "path": "config/fancymenu/custom_locals/bakcground.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/custom_locals/bakcground.png",
+      "sha1": "ba5ffe27655b600b1aea60f7b7d20aca4b331e3e",
+      "size": 8240583
+    },
+    {
+      "path": "config/fancymenu/custom_locals/logo.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/custom_locals/logo.png",
+      "sha1": "2842f423bba5745cc9cc50db4f65a0793c3b3b56",
+      "size": 485431
+    },
+    {
+      "path": "config/fancymenu/custom_locals/optionsback.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/custom_locals/optionsback.png",
+      "sha1": "28d06118c125e66f5c887fe6aad5ed45b5f41e3e",
+      "size": 5920155
+    },
+    {
+      "path": "config/fancymenu/locals/de_de.local",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/locals/de_de.local",
+      "sha1": "98b50323485e91e3cc989364873878e42386c372",
+      "size": 27376
+    },
+    {
+      "path": "config/fancymenu/locals/en_us.local",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/locals/en_us.local",
+      "sha1": "ea7f22c6fa54909605b1d8cb4b45a1e0d8ca6a44",
+      "size": 113824
+    },
+    {
+      "path": "config/fancymenu/locals/pl_pl.local",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/locals/pl_pl.local",
+      "sha1": "6b065a9ef9287ac5c88775c78f247f607764ad12",
+      "size": 13858
+    },
+    {
+      "path": "config/fancymenu/locals/pt_br.local",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/locals/pt_br.local",
+      "sha1": "ab64076d828f5700d3b7e5a5a312b76eaa3e1b16",
+      "size": 14283
+    },
+    {
+      "path": "config/fancymenu/locals/ru_ru.local",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/locals/ru_ru.local",
+      "sha1": "097bf0d21a71879b3a87508324bb11051c52ba1b",
+      "size": 155574
+    },
+    {
+      "path": "config/fancymenu/locals/uk_ua.local",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/locals/uk_ua.local",
+      "sha1": "58a9404fd84d78331701a6e81c34382bae55a7dd",
+      "size": 147984
+    },
+    {
+      "path": "config/fancymenu/locals/zh_cn.local",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/locals/zh_cn.local",
+      "sha1": "8e166ec05744eb904901dbedcd5b9374c1ba8f97",
+      "size": 52106
+    },
+    {
+      "path": "config/fancymenu/menu_identifiers.db",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/menu_identifiers.db",
+      "sha1": "c4ffbfdf7e6bc0e711bd5ee8b59751d9b3c218b6",
+      "size": 10497
+    },
+    {
+      "path": "config/fancymenu/minecraftwindow/icon16x16.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/minecraftwindow/icon16x16.png",
+      "sha1": "dde84554d2b1a37cf88f35c37643f156c8644687",
+      "size": 3592
+    },
+    {
+      "path": "config/fancymenu/minecraftwindow/icon32x32.png",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/minecraftwindow/icon32x32.png",
+      "sha1": "25d04a826480faae736175149015eb2343293bbc",
+      "size": 5324
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/user_variables.db",
+      "sha1": "ffe93b8f3354a1f5e70b151e53cad8bb3dab57a3",
+      "size": 79
+    }
+  ]
+}
