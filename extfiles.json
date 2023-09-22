@@ -19,9 +19,15 @@
       "size": 1733
     },
     {
+      "path": "config/customsplashscreen.json",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/customsplashscreen.json",
+      "sha1": "aa7d0ad3766a2509840ef62427200ddb2e075b6f",
+      "size": 674
+    },
+    {
       "path": "config/fancymenu/config.txt",
       "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/config.txt",
-      "sha1": "fd492dbbec9f1d988e79619f3175320e9487a95b",
+      "sha1": "590d723e6307eb2e6a69073a81b2d8584d427cab",
       "size": 1645
     },
     {
