@@ -419,6 +419,12 @@
       "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/user_variables.db",
       "sha1": "ffe93b8f3354a1f5e70b151e53cad8bb3dab57a3",
       "size": 79
+    },
+    {
+      "path": "options.txt",
+      "downloadURL": "https://zenyox.github.io/extfiles/options.txt",
+      "sha1": "53668e087db5f6a0b687ae7a7df533bbb5d03f8a",
+      "size": 7516
     }
   ]
 }
