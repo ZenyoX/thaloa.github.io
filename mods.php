@@ -1,5 +1,5 @@
 <?php
-const MODS_URL = 'https://github.com/ZenyoX/zenyox.github.io/tree/main/mods/';
+const MODS_URL = 'https://zenyox.github.io/mods/';
 const MODS_FOLDER = __DIR__ . '/mods';
 $json = [
     'mods' => []
