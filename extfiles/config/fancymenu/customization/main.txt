@@ -202,7 +202,7 @@ customization {
 customization {
   orientation = mid-centered
   restartbackgroundanimations = false
-  buttonaction = joinserver;localhost%btnaction_splitter_fm%
+  buttonaction = joinserver;node-one.matteod.fr:30004%btnaction_splitter_fm%
   backgroundhovered = config/fancymenu/customguis/main/play-button/playh.png
   label = 
   loopbackgroundanimations = true
