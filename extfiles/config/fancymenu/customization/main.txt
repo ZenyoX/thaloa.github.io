@@ -205,7 +205,7 @@ customization {
   buttonaction = joinserver;node-one.matteod.fr:30004%btnaction_splitter_fm%
   backgroundhovered = config/fancymenu/customguis/main/play-button/playh.png
   label = 
-  loopbackgroundanimations = true
+  loopbackgroundanimations = false
   x = -35
   width = 70
   action = addbutton
