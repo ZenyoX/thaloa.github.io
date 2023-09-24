@@ -73,6 +73,12 @@
       "size": 1032912
     },
     {
+      "name": "async-locator-fabric-1.20-1.3.0.jar",
+      "downloadURL": "https://github.com/ZenyoX/zenyox.github.io/raw/main/mods/async-locator-fabric-1.20-1.3.0.jar",
+      "sha1": "9bd8650056dd2dbbc64c4842f4dc9b9391ee8bf9",
+      "size": 279100
+    },
+    {
       "name": "audio_hotkeys-1.0.5+1.20.jar",
       "downloadURL": "https://github.com/ZenyoX/zenyox.github.io/raw/main/mods/audio_hotkeys-1.0.5+1.20.jar",
       "sha1": "fe22662681af03cb6b0eacf49ff9e8d9d76ca171",
@@ -125,6 +131,12 @@
       "downloadURL": "https://github.com/ZenyoX/zenyox.github.io/raw/main/mods/bushierflowers-0.0.3-1.20.1.jar",
       "sha1": "0680fe8caa6536f2a56b494ff86a7a37233ca983",
       "size": 344495
+    },
+    {
+      "name": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.0.jar",
+      "downloadURL": "https://github.com/ZenyoX/zenyox.github.io/raw/main/mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.0.jar",
+      "sha1": "a7b3f8136ba60ff6e3c216ade83ff03c42ca77ee",
+      "size": 1299910
     },
     {
       "name": "chat-notify-1.0.2+mc1.20.1.jar",
@@ -523,6 +535,12 @@
       "size": 85542
     },
     {
+      "name": "modernfix-fabric-5.7.2+mc1.20.1.jar",
+      "downloadURL": "https://github.com/ZenyoX/zenyox.github.io/raw/main/mods/modernfix-fabric-5.7.2+mc1.20.1.jar",
+      "sha1": "b73020c16ff6186400d8bc5f359119e007226735",
+      "size": 513723
+    },
+    {
       "name": "modmenu-7.2.1.jar",
       "downloadURL": "https://github.com/ZenyoX/zenyox.github.io/raw/main/mods/modmenu-7.2.1.jar",
       "sha1": "ccaa15132f3e21307736d16fc160d064cc539e8c",
@@ -755,6 +773,12 @@
       "downloadURL": "https://github.com/ZenyoX/zenyox.github.io/raw/main/mods/VisualWorkbench-v8.0.0-1.20.1-Fabric.jar",
       "sha1": "326fcb260cf64c12714c2ada3ff8a4bdfed620f2",
       "size": 79100
+    },
+    {
+      "name": "vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
+      "downloadURL": "https://github.com/ZenyoX/zenyox.github.io/raw/main/mods/vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
+      "sha1": "46e896cabf7813275413c97e6dd2f48ef534057d",
+      "size": 487043
     },
     {
       "name": "voicechat-fabric-1.20.1-2.4.24.jar",
