@@ -27,8 +27,8 @@
     {
       "path": "config/fancymenu/config.txt",
       "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/config.txt",
-      "sha1": "590d723e6307eb2e6a69073a81b2d8584d427cab",
-      "size": 1645
+      "sha1": "4b2ff0af83503e93c573015446b530c810eb43b6",
+      "size": 1647
     },
     {
       "path": "config/fancymenu/customguis/advancements.png",
@@ -89,6 +89,12 @@
       "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/main/backbuttons.png",
       "sha1": "40fc1ecebcb01c851b8fbb985eec9da1f6b04a2b",
       "size": 7828
+    },
+    {
+      "path": "config/fancymenu/customguis/main/background.mp4",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customguis/main/background.mp4",
+      "sha1": "9ec0430dc62e4712b33b44ae3ba9e93fe5a3326e",
+      "size": 129698294
     },
     {
       "path": "config/fancymenu/customguis/main/bakcground.png",
@@ -333,8 +339,8 @@
     {
       "path": "config/fancymenu/customization/main.txt",
       "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/customization/main.txt",
-      "sha1": "d1d45d5ea860c21037cd321d89da7a3832c12055",
-      "size": 8456
+      "sha1": "386ff8181c60df767e0f6e8ca2f9263defd9a99b",
+      "size": 8473
     },
     {
       "path": "config/fancymenu/customization/options.txt",
@@ -425,6 +431,48 @@
       "downloadURL": "https://zenyox.github.io/extfiles/config/fancymenu/user_variables.db",
       "sha1": "ffe93b8f3354a1f5e70b151e53cad8bb3dab57a3",
       "size": 79
+    },
+    {
+      "path": "config/physicsmod/physics_animations_client_config.json",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/physicsmod/physics_animations_client_config.json",
+      "sha1": "09deba4d55b8ed6aade01e21def0bc0b3831788f",
+      "size": 2704
+    },
+    {
+      "path": "config/physicsmod/physics_blocks_client_config.json",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/physicsmod/physics_blocks_client_config.json",
+      "sha1": "5523031b2d312b236485fb7e3bae134c5633ca7b",
+      "size": 326674
+    },
+    {
+      "path": "config/physicsmod/physics_client_config.json",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/physicsmod/physics_client_config.json",
+      "sha1": "313fe350a70756d4e0c36a3c8309194cc0605efb",
+      "size": 4009
+    },
+    {
+      "path": "config/physicsmod/physics_cloth_config.json",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/physicsmod/physics_cloth_config.json",
+      "sha1": "eb546b9b88636bed3aaf1f0d532309a2639bc8f9",
+      "size": 49
+    },
+    {
+      "path": "config/physicsmod/physics_mobs_client_config.json",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/physicsmod/physics_mobs_client_config.json",
+      "sha1": "16a35a8c745f5ea0c579f7da1e23bfa4a6af6a97",
+      "size": 26
+    },
+    {
+      "path": "config/physicsmod/physics_server_config.json",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/physicsmod/physics_server_config.json",
+      "sha1": "b4fa3f6a335ded4f4b247457dc9d27bec23429c9",
+      "size": 96
+    },
+    {
+      "path": "config/physicsmod/physics_vines_client_config.json",
+      "downloadURL": "https://zenyox.github.io/extfiles/config/physicsmod/physics_vines_client_config.json",
+      "sha1": "1c1166da0bca39ecca18f8431fe58d3a90ea4e39",
+      "size": 14102
     }
   ]
 }

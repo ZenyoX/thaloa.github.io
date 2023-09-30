@@ -601,10 +601,10 @@
       "size": 636484
     },
     {
-      "name": "physics-mod-3.0.7-mc-1.20-fabric.jar",
-      "downloadURL": "https://github.com/ZenyoX/zenyox.github.io/raw/main/mods/physics-mod-3.0.7-mc-1.20-fabric.jar",
-      "sha1": "8e01ef1cb1816e2cb9968964eff926646e8eae72",
-      "size": 141098149
+      "name": "physics-mod-3.0.8-mc-1.20.1-fabric.jar",
+      "downloadURL": "https://github.com/ZenyoX/zenyox.github.io/raw/main/mods/physics-mod-3.0.8-mc-1.20.1-fabric.jar",
+      "sha1": "8a10c3f660bdfc7d809bf8bb34e76d92433ba8de",
+      "size": 139325355
     },
     {
       "name": "PresenceFootsteps-1.9.0.jar",
