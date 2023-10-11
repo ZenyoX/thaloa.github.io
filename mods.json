@@ -289,18 +289,6 @@
       "size": 993310
     },
     {
-      "name": "eco-1.20.1-2.1.1.jar",
-      "downloadURL": "https://github.com/ZenyoX/zenyox.github.io/raw/main/mods/eco-1.20.1-2.1.1.jar",
-      "sha1": "a047338a36bd79c04271f000eae86fec175a5b49",
-      "size": 1069123
-    },
-    {
-      "name": "elytraboosters-1.5.1.jar",
-      "downloadURL": "https://github.com/ZenyoX/zenyox.github.io/raw/main/mods/elytraboosters-1.5.1.jar",
-      "sha1": "91ffd04779d4a7037ee39687e924e194e631bd6b",
-      "size": 1166931
-    },
-    {
       "name": "elytraglitchfix-1.0.jar",
       "downloadURL": "https://github.com/ZenyoX/zenyox.github.io/raw/main/mods/elytraglitchfix-1.0.jar",
       "sha1": "4448ec895e170a11f6bc25b67deda1ac07085760",
@@ -731,6 +719,12 @@
       "downloadURL": "https://github.com/ZenyoX/zenyox.github.io/raw/main/mods/tall-flower-pots-0.1.2.jar",
       "sha1": "6ba71939b9c80eacc32f2b39d67cea6a42f9364a",
       "size": 107805
+    },
+    {
+      "name": "Terralith_1.20.2_v2.4.7.jar",
+      "downloadURL": "https://github.com/ZenyoX/zenyox.github.io/raw/main/mods/Terralith_1.20.2_v2.4.7.jar",
+      "sha1": "389b41e31bb192e1bf40913bc22194724676d313",
+      "size": 2479641
     },
     {
       "name": "text-utilities-fabric-1.6.1+1.20.1.jar",
